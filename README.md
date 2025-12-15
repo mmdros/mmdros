@@ -8,7 +8,7 @@
 
 </div>
 
-Olá! Eu me chamo **Matheus**, formado em **Análise e desenvolvimento de sistemas**, desenvolvendo inicialmente com foco em **Frontend**, apaixonado por criar interfaces funcionais, acessíveis e visualmente agradáveis. Este espaço é dedicado ao meu aprendizado e portifólio, experimentações e projetos práticos que refletem minha evolução na área de tecnologia.
+Olá! Eu me chamo **Matheus**, formado em **Análise e desenvolvimento de sistemas**, desenvolvedor junior com foco em **Frontend**, apaixonado por criar interfaces funcionais, acessíveis e visualmente agradáveis. Este espaço é dedicado ao meu aprendizado e portifólio, experimentações e projetos práticos que refletem minha evolução na área de tecnologia.
 
 ---
 
